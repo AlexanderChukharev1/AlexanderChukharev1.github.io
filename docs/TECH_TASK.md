@@ -17,7 +17,7 @@
 
 **Ссылка на GitHub Pages:** [https://alexanderchukharev1.github.io/]
 
-**Ссылка на основной pull request:** []
+**Ссылка на основной pull request:** [https://github.com/AlexanderChukharev1/AlexanderChukharev1.github.io/pulls]
 
 ---
 
